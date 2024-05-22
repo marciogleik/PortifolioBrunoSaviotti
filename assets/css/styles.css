@@ -244,12 +244,13 @@ body,
 html {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 .home {
   max-width: 1024px;
   /* Define a largura máxima da seção */
-  margin: 0 auto;
+  margin: 2 auto;
   /* Centraliza a seção na tela */
 }
 
@@ -280,7 +281,7 @@ html {
     background-position: center;
     /* Centraliza o plano de fundo */
     margin-right: -40px;
-    
+
   }
 
   .home__title {
