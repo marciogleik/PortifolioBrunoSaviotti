@@ -279,6 +279,8 @@ html {
     /* Reduz o padding para telas menores */
     background-position: center;
     /* Centraliza o plano de fundo */
+    margin-right: -40px;
+    
   }
 
   .home__title {
